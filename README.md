@@ -22,25 +22,25 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 ### Compiling, Training, and Evaluating the Model
 -	We have used the deep learning models as it can identify patterns, determine severity, and adapt to changing input data from a wide variety of data sources. Compared to basic neural network models, which require a large number of neurons to identify nonlinear characteristics, deep learning models only need a few neurons across a few hidden layers to identify the same nonlinear characteristics.
 -	Neurons. Used approx. 2 to 3 times of the total variables of features which are 43
-o	hidden_nodes_layer1 = 80
-o	hidden_nodes_layer2 = 30
+  - hidden_nodes_layer1 = 80
+  - hidden_nodes_layer2 = 30
 -	Layers Used
-o	Features - 2 Hidden Layer
-o	Target - 1 Layer
+  - Features - 2 Hidden Layer
+  - Target - 1 Layer
 -	Activation Functions
-o	Features – Relu
-o	Target - Sigmoid
+  - Features – Relu
+  - Target - Sigmoid
 -	We got an accuracy of 72% which is above average but no satisfactory.
 -	We tried following steps to improve model performance.
-o	Changed the neurons to 90 and 40
+  - Changed the neurons to 90 and 40
 
 
 
-o	Changed the epoch from 50 to 100
+  - Changed the epoch from 50 to 100
 
 
 
-o	Changed the activation from “relu” to “linear”
+  - Changed the activation from “relu” to “linear”
 
 
 
