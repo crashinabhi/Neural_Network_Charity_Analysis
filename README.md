@@ -34,7 +34,7 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 -	We tried following steps to improve model performance.
     - Changed the neurons to 90 and 40
 
-![](Resources\Optimize_attempt_1_hidden_nodes.png)
+![](Resources/Optimize_attempt_1_hidden_nodes.png)
 
 
     - Changed the epoch from 50 to 100
