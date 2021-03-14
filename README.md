@@ -8,15 +8,15 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 ### Data Preprocessing
 -	We have considered the variable IS_SUCCESSFUL as a target for the model
 -	For the feature we have considered the below listed variables
-o	APPLICATION_TYPE—Alphabet Soup application type
-o	AFFILIATION—Affiliated sector of industry
-o	CLASSIFICATION—Government organization classification
-o	USE_CASE—Use case for funding
-o	ORGANIZATION—Organization type
-o	STATUS—Active status
-o	INCOME_AMT—Income classification
-o	SPECIAL_CONSIDERATIONS—Special consideration for application
-o	ASK_AMT—Funding amount requested
+    - APPLICATION_TYPE—Alphabet Soup application type
+    - AFFILIATION—Affiliated sector of industry
+    - CLASSIFICATION—Government organization classification
+    - USE_CASE—Use case for funding
+    - ORGANIZATION—Organization type
+    - STATUS—Active status
+    - INCOME_AMT—Income classification
+    - SPECIAL_CONSIDERATIONS—Special consideration for application
+    - ASK_AMT—Funding amount requested
 -	We have excluded the variables EIN and NAME—Identification columns as they do not contribute to the Model.
 
 ### Compiling, Training, and Evaluating the Model
