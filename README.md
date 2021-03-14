@@ -35,6 +35,7 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
     - Changed the neurons to 90 and 40
 
 ![](Resources/Optimize_attempt_1_hidden_nodes.png)
+
 ![](Resources/Optimize_attempt_1_hidden_nodes_Accuracy.png)
 
    - Changed the epoch from 50 to 100
@@ -43,7 +44,8 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 
    - Changed the activation from “relu” to “linear”
    
-![](Resources/Optimize_attempt_3_Activation_linears.png)
+![](Resources/Optimize_attempt_3_Activation_linear.png)
+
 ![](Resources/Optimize_attempt_3_Activation_linear_accuracy.png)
 
 ## Summary
