@@ -38,7 +38,6 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 ![](Resources/Optimize_attempt_1_hidden_nodes_Accuracy.png)
 
    - Changed the epoch from 50 to 100
-   - 
 ![](Resources/Optimize_attempt_2_Epoch.png)
 
 
